@@ -1,9 +1,14 @@
 hexo-theme-yilia
 ================
 
+
+基于[hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)  2015-12-17 11:35:31  Merge pull request #116 from korvin101/patch-1 版本，添加了打赏功能。
+
+通过dashang配置打赏功能。
+
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
-崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](http://litten.github.io/) 查看效果。           
- 
+崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](http://yuweiguocn.github.io/) 查看效果。           
+
 如遇到问题或有需求，可以：
 * 提issue给我
 * 在这篇文章下留言[Hexo主题Yilia](http://litten.github.io/2014/08/31/hexo-theme-yilia/)
@@ -39,7 +44,7 @@ Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
 #### 安装
 
 ``` bash
-$ git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
+$ git clone https://github.com/yuweiguocn/hexo-theme-yilia.git themes/yilia
 ```
 
 #### 配置
@@ -94,6 +99,7 @@ subnav:
   #google: "#"
   #twitter: "#"
   #linkedin: "#"
+  dashang: "#"
 
 rss: /atom.xml
 
